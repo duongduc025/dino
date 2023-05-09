@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677910919 source:d:\codef\cp\dino\button.cpp
+	"Button.h"
+
+1677910919 d:\codef\cp\dino\button.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1677910919 d:\codef\cp\dino\commonfunction.h
+	<bits/stdc++.h>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1677910919 d:\codef\cp\dino\baseobject.h
+	"CommonFunction.h"
+
